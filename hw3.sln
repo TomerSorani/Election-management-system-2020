@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hw3", "hw3\hw3.vcxproj", "{B6B47821-18F8-4BEA-91DA-DD1A074182FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA7944C3-3BAB-4BB9-8989-132D0424258C}"
+	ProjectSection(SolutionItems) = preProject
+		hw1.pdf = hw1.pdf
+		hw2.pdf = hw2.pdf
+		hw3.pdf = hw3.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Debug|x64.ActiveCfg = Debug|x64
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Debug|x64.Build.0 = Debug|x64
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Debug|x86.Build.0 = Debug|Win32
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Release|x64.ActiveCfg = Release|x64
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Release|x64.Build.0 = Release|x64
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Release|x86.ActiveCfg = Release|Win32
+		{B6B47821-18F8-4BEA-91DA-DD1A074182FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8631735-D65F-4210-9A32-59D0AAC7EEDA}
+	EndGlobalSection
+EndGlobal

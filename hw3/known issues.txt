@@ -1,0 +1,5 @@
+known issues:
+1. In case of vote percent for parties in a specific region:
+there is a loss of chosen represenetives if the percent doesn't fully match the number of represenetives given by the region.
+I.g: for a region that has 3 repsresenetives if party A has 50% of votes and also party B  has 50% each will get 1 represenetives, accumulating in a total of 2.
+2. In the Person class, Region is saved as an ID and not as a pointer/reference
